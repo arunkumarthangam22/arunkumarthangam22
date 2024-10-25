@@ -25,7 +25,7 @@
 
 ### 🏆 LeetCode Stats:
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/arunkumarthangam22?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/arun22062001?theme=dark)
 
 ---
 
