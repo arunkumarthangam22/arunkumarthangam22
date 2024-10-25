@@ -5,17 +5,17 @@
 ### 🧑‍💻 About Me:
 - 🌱 Constantly expanding my knowledge and skills in software development, focusing on **cloud technologies, data science, and AI**.
 - 💻 A passionate **full-stack developer**, always exploring new technologies to solve real-world problems.
-- 👨‍💼 Founder of **Lock and Open**, tackling real-time IT industry challenges with innovative solutions. Check out our latest product: [PicStream](https://github.com/arunkumarthangam22/PicStream)!
+- 👨‍💼 Founder of [Lock and Open](https://lockandopen.in/), tackling real-time IT industry challenges with innovative solutions. Check out our latest product: [PicStream](https://picstream.lockandopen.in/)!
 - 🤖 Problem solver at heart—[Check out my LeetCode profile](https://leetcode.com/arun22062001) to see my coding challenges journey.
 
 ---
 
 ### 🛠 Technologies & Tools:
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools**: VS Code, GitHub, Docker
-- **Cloud**: AWS, GCP
-- **Databases**: MySQL, MongoDB
+- **Languages**: Java, JavaScript, Python
+- **Frameworks**: React, Django
+- **Tools**: VS Code, GitHub , Figma
+- **Cloud**: AWS
+- **Databases**: SQL, MongoDB
 
 ---
 
